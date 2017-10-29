@@ -1,0 +1,16 @@
+# Unity環境構築方法
+
+## Unityインストール編
+
+1. Unityインストーラをダウンロードする(https://store.unity.com/ja/download?ref=personal)
+2. インストーラ起動すればOK
+
+## Unity-Android連携編
+
+*参考URL*
+
+* SDKのセットアップ
+https://docs.unity3d.com/jp/540/Manual/android-sdksetup.html
+
+* アプリのビルド
+https://docs.unity3d.com/jp/540/Manual/android-BuildProcess.html
